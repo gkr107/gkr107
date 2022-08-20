@@ -20,7 +20,7 @@ I'm a DevOps engineer
 
 
 ## 🛠 Skills
-Linux, AWS, Docker, Kubernetes, (soon Javascript, HTML, CSS...).
+Linux, AWS, Docker, Kubernetes, (soon c#...).
 
 
 <!---
